@@ -1,0 +1,8 @@
+body {
+    background-color: lightgray;
+}
+p {
+    font-size: 100px;
+    font-weight: 800;
+    color: gray;
+}
