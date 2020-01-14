@@ -1,8 +1,8 @@
 ### Instructions for start this project
 =====================================================================================
 ## 1) git clone
-## 2) activate enviroments: " . web\ server/bin/activate "
-## 3) pip3 install Flask
+## 2) pip3 install Flask
+## 3) activate enviroments: " . /bin/activate "
 ## 4) export FLASK_APP=server.py
 ## 5) export FLASK_ENV=development
 ## 6) flask run
